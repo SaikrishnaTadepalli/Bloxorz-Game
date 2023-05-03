@@ -1,5 +1,5 @@
 
-# Project Title
+# Bloxorz Game
 
 This is a remake of the classic puzzle game, Bloxorz, built using Unity 3D and C#. 
 
